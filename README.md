@@ -96,7 +96,7 @@
     </section>
 
     <div class="footer">
-        <p>Materi Keladi Neon &copy; 2026 | Nike</p>
+        <p>Proyek Kolaborasi IPA dan INFORMATIKA &copy; 2026 | Lovly Eunike Evangelista Amisi</p>
     </div>
 </div>
 
