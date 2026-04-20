@@ -100,19 +100,19 @@
     <section>
         <h2>1. Pengertian</h2>
         <p>
-            <span class="highlight">Keladi Neon</span> (atau <em>Alocasia micholitziana</em>) adalah tanaman hias daun tropis populer yang dikenal dengan daun berbentuk hati memanjang, berbulu halus, berwarna hijau gelap, dan tulang daun putih neon mencolok[cite: 3]. Tanaman ini ideal untuk indoor karena menyukai tempat teduh, kelembapan tinggi, dan sinar matahari tidak langsung[cite: 4].
+            <span class="highlight">Keladi Neon</span> (atau <em>Alocasia micholitziana</em>) adalah tanaman hias daun tropis populer yang dikenal dengan daun berbentuk hati memanjang, berbulu halus, berwarna hijau gelap, dan tulang daun putih neon mencolok. Tanaman ini ideal untuk indoor karena menyukai tempat teduh, kelembapan tinggi, dan sinar matahari tidak langsung.
         </p>
     </section>
 
     <section>
         <h2>2. Klasifikasi</h2>
         <table>
-            <tr><th>Kingdom</th><td>Plantae [cite: 6]</td></tr>
+            <tr><th>Kingdom</th><td>Plantae </td></tr>
             <tr><th>Divisi</th><td>Tracheophyta (Tumbuhan berpembuluh) [cite: 7]</td></tr>
-            <tr><th>Kelas</th><td>Liliopsida (Monokotil) [cite: 8]</td></tr>
-            <tr><th>Ordo</th><td>Alismatales [cite: 9]</td></tr>
-            <tr><th>Famili</th><td>Araceae (Suku talas-talasan) [cite: 10]</td></tr>
-            <tr><th>Genus</th><td>Alocasia [cite: 11]</td></tr>
+            <tr><th>Kelas</th><td>Liliopsida (Monokotil) </td></tr>
+            <tr><th>Ordo</th><td>Alismatales </td></tr>
+            <tr><th>Famili</th><td>Araceae (Suku talas-talasan) </td></tr>
+            <tr><th>Genus</th><td>Alocasia </td></tr>
             <tr><th>Spesies</th><td>Alocasia micholitziana 'Frydek' [cite: 12]</td></tr>
         </table>
     </section>
