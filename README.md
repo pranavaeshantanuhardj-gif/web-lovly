@@ -124,33 +124,33 @@
             <li><strong>Batang:</strong> Tidak berkayu, berupa batang semu yang tumbuh dari umbi[cite: 16].</li>
             <li><strong>Akar:</strong> Berupa akar serabut yang tumbuh dari umbi di dalam tanah[cite: 17].</li>
             <li><strong>Umbi:</strong> Berfungsi sebagai tempat menyimpan cadangan makanan[cite: 17].</li>
-            <li><strong>Ukuran:</strong> Tinggi tanaman biasanya berkisar antara 30-60 cm[cite: 18].</li>
+            <li><strong>Ukuran:</strong> Tinggi tanaman biasanya berkisar antara 30-60 cm.</li>
         </ul>
     </section>
 
     <section>
         <h2>4. Fisiologi</h2>
         <ul>
-            <li><strong>Fotosintesis:</strong> Menggunakan cahaya matahari untuk menghasilkan makanan[cite: 21].</li>
-            <li><strong>Transpirasi:</strong> Penguapan air melalui daun[cite: 22].</li>
-            <li><strong>Respirasi:</strong> Proses pernapasan untuk menghasilkan energi[cite: 23].</li>
+            <li><strong>Fotosintesis:</strong> Menggunakan cahaya matahari untuk menghasilkan makanan.</li>
+            <li><strong>Transpirasi:</strong> Penguapan air melalui daun.</li>
+            <li><strong>Respirasi:</strong> Proses pernapasan untuk menghasilkan energi.</li>
         </ul>
-        <p>Tanaman ini tumbuh baik di tempat teduh dengan cahaya tidak langsung dan membutuhkan tanah yang lembap tetapi tidak tergenang air[cite: 24].</p>
+        <p>Tanaman ini tumbuh baik di tempat teduh dengan cahaya tidak langsung dan membutuhkan tanah yang lembap tetapi tidak tergenang air[cit.</p>
     </section>
 
     <section>
         <h2>5. Manfaat</h2>
         <ul>
-            <li><strong>Tanaman hias:</strong> Memperindah lingkungan rumah atau taman[cite: 27].</li>
-            <li><strong>Meningkatkan kualitas udara:</strong> Membantu menyerap polutan ringan di udara[cite: 27].</li>
-            <li><strong>Efek relaksasi:</strong> Warna daun yang cerah dapat membuat suasana lebih segar dan nyaman[cite: 28].</li>
+            <li><strong>Tanaman hias:</strong> Memperindah lingkungan rumah atau taman.</li>
+            <li><strong>Meningkatkan kualitas udara:</strong> Membantu menyerap polutan ringan di udara.</li>
+            <li><strong>Efek relaksasi:</strong> Warna daun yang cerah dapat membuat suasana lebih segar dan nyaman.</li>
         </ul>
     </section>
 
     <div class="meta-info">
-        <p><strong>Sumber:</strong> chatGpt & Google [cite: 29]</p>
-        <p><strong>Tanggal:</strong> 16.04.2026 [cite: 30]</p>
-        <p><strong>Kreator:</strong> Lovly [cite: 31]</p>
+        <p><strong>Sumber:</strong> chatGpt & Google </p>
+        <p><strong>Tanggal:</strong> 16.04.2026 </p>
+        <p><strong>Kreator:</strong> Lovly </p>
     </div>
 
     <div class="footer">
